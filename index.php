@@ -1,5 +1,5 @@
 <?php
-
+    error_reporting(0);
     // Include the DirectoryLister class
     require_once('resources/DirectoryLister.php');
 
